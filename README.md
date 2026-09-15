@@ -1,32 +1,30 @@
 ### Hi 😄
 
 <div align="center">
-  <a href="https://github.com/dienieper">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dienieper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dienieper&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+
+  <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+
+  <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+
+  <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+
 </div>
 
+<br>
 <br>
 
 <div align="center">
 
-  <img align="center" alt="Dienieper-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <a href="https://www.linkedin.com/in/dienieper-oliveira-98a7a4217/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dienieper%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
-  <img align="center" alt="Dienieper-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <a href="mailto:dienieper@outlook.com">
+    <img src="https://img.shields.io/badge/Email-dienieper%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
+  </a>
 
-  <img align="center" alt="Dienieper-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-
-  <img align="center" alt="Dienieper-TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-
-<img align="center" alt="Dienieper-NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-orig
-
-   
-  
-    
-  
-      
-
-      
-     
-
+</div>
