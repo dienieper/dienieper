@@ -10,7 +10,9 @@
 
   <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 
-  <img align="center" alt="Node.js" height="40" src="[https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white](https://user-images.githubusercontent.com/4727/38117885-69734bbc-336c-11e8-8653-86b0fa071896.png)">
+  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+
+ <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 
 </div>
 
